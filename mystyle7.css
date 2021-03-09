@@ -1,0 +1,91 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.parallax1{
+  width: 100%;
+  height: 600px;
+  background-image: url(taj-mahal.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+
+}
+.parallax1 h2{
+  position: relative;
+  left: 650px;
+  top: 300px;
+  width: 203px;
+  height: 52px;
+  padding: 10px;
+  background-color: white;
+  color: black;
+  text-align: center;
+
+}
+.parallax2{
+  width: 100%;
+  height: 600px;
+  background-image: url(varanasi.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+
+}
+.parallax2 h2{
+  position: relative;
+  left: 650px;
+  top: 300px;
+  width: 203px;
+  height: 51px;
+  padding: 10px;
+  background-color:white;
+  color: black;
+  text-align: center;
+
+}
+.parallax3{
+  width: 100%;
+  height: 600px;
+  background-image: url(golden\ temple.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+
+}
+.parallax3 h2{
+  position: relative;
+  left: 650px;
+  top: 300px;
+  width: 206px;
+  height: 51px;
+  padding: 10px;
+  background-color: white;
+  color: black;
+  text-align: center;
+
+}
+.para1{
+  padding: 50px;
+  text-align: center;
+  height: 100px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+
+}
+.para2{
+  padding: 50px;
+  text-align: center;
+  height: 100px;
+  background-color:white;
+  color:black;
+  font-size: 20px;
+
+}
+.para3{
+  padding: 50px;
+  text-align: center;
+  height: 100px;
+  background-color:white;
+  color:black;
+  font-size: 20px;
+
+}
